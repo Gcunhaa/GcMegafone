@@ -1,0 +1,6 @@
+name: GcMegafone
+version: 0.1
+author: Gcunha
+main: gc.megafone.Megafone
+commands: 
+  megafone: 

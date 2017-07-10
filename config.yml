@@ -1,0 +1,6 @@
+Delay: 5
+Msg:
+- ''
+- 'Megafone {jogador} >> {mensagem}'
+- ''
+SemPerm: '&cVocê não possui permissão para usar esse comando.'
